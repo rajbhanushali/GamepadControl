@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GamepadTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="colorPrimary">#673AB7</color>
+    <color name="colorPrimaryDark">#512DA8</color>
+    <color name="colorAccent">#009688</color>
+</resources>
